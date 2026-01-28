@@ -1,8 +1,0 @@
-
-{
-  "name": "SAV Assist - Cloud Edition",
-  "description": "Portail collaboratif SAV pour techniciens HVAC. Transcription IA, diagnostic profond et partage d'historique d'équipe.",
-  "requestFramePermissions": [
-    "microphone"
-  ]
-}
